@@ -1,19 +1,6 @@
-# Block chain dapp
+# Next.js Crash Course Project
 
-a small school project for the block chain class
-as agreed upon by 
-Ben Mansour Mahdi aka iNuBe 
-Cherni Ibtissem
-Louati Yossr 
-this project a proof of concept for their block chain app project 
-this artifact is not a complete prototype and is missing many functionalities but due to lack of time we had to make due with the necessairy functionalities
-
-
-
-#Dependencies installation
-1) navigate with a terminal to the directory containing the git cloned project 
-2) npm install to install the dependencies 
-
+Project from my Next.js crash course on YouTube
 
 ### Run the development server:
 
@@ -21,6 +8,19 @@ this artifact is not a complete prototype and is missing many functionalities bu
 npm run dev
 ```
 
+### Build for production AND generate static website into "out" folder:
 
+```bash
+npm run build
+```
 
+### Run in production:
 
+```bash
+npm start
+```
+
+### API Routes:
+
+GET /api/articles
+GET /api/articles/:id
