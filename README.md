@@ -1,7 +1,8 @@
 # Block chain dapp
 
 a small school project for the block chain class
-as agreed upon by 
+as agreed upon by  
+
 Ben Mansour Mahdi aka iNuBe 
 Cherni Ibtissem
 Louati Yossr 
