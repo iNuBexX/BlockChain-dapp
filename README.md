@@ -1,7 +1,26 @@
-# BlockChain-dapp
-a small school project for the Blockain class
-as agreed upon by  
-Ben Mansour Mahdi(aka iNuBe)  
-Cherni Ibtissem  
-Louti Yossr  
-this project is to be presented to mme Sethom Kaouther as their proof of concept for the class project 
+# Next.js Crash Course Project
+
+Project from my Next.js crash course on YouTube
+
+### Run the development server:
+
+```bash
+npm run dev
+```
+
+### Build for production AND generate static website into "out" folder:
+
+```bash
+npm run build
+```
+
+### Run in production:
+
+```bash
+npm start
+```
+
+### API Routes:
+
+GET /api/articles
+GET /api/articles/:id
