@@ -1,6 +1,6 @@
 # BlockChain-dapp
 a small school project for the Blockain class
-as agreed upon by\n
+as agreed upon by 
 Ben Mansour Mahdi(aka iNuBe)  
 Cherni Ibtissem  
 Louti Yossr  
