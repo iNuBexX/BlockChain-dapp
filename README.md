@@ -13,7 +13,7 @@ this artifact is not a complete prototype and is missing many functionalities bu
 
 
 
-#Dependencies installation
+# Dependencies installation
 1) navigate with a terminal to the directory containing the git cloned project 
 2) npm install to install the dependencies 
 
