@@ -1,7 +1,7 @@
 # Block chain dapp
 
 a small school project for the block chain class
-as agreed upon by  
+as agreed upon by the three terminal year students of Group D enicarthage informatics in the year 2022-2023
 
 Ben Mansour Mahdi aka iNuBe  
 Cherni Ibtissem  
