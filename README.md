@@ -21,12 +21,17 @@ the backend which is a truffle project using ganache as a lockal block chain
 # Front End Dependencies installation
 1) navigate with a terminal to the front end directory
 2) npm install to install the dependencies 
+3) npm install yarn
 
 
 ### Run the development server:
 
 ```bash
 npm run dev
+```
+or using yarn
+```bash
+yarn dev
 ```
 
 
