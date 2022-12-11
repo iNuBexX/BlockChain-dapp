@@ -30,10 +30,10 @@ npm run dev
 ```
 
 
-###Credits where credit is due 
-####the front end was heavily inspired by traversy media following along his tutorial  found here
+### Credits where credit is due  
+#### the front end was heavily inspired by traversy media following along his tutorial  found here  
 https://www.youtube.com/watch?v=mTz0GXj8NN0&t=1923s
-####the backend was mostly basic ideas i formulated from the understanding i acheived following along this very wholsome tutorial about block chain , etherium and solidity by mr patrick collins
+#### the backend was mostly basic ideas i formulated from the understanding i acheived following along this very wholsome tutorial about block chain , etherium and solidity by mr patrick collins
 https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=60042s
 
 
