@@ -15,7 +15,7 @@ this artifact is not a complete prototype and is missing many functionalities bu
 
 this repository contains two main directories 
 the front end using next js which is a react fraemwork 
-the backend which is a truffle project using ganache as a lockal block chain
+the backend which is a truffle project using ganache as a local block chain
 
 
 # Front End Dependencies installation
